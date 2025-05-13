@@ -4,7 +4,7 @@ import { FaLinkedin, FaGithubSquare, FaWhatsappSquare, FaEnvelope } from 'react-
 import { MdArrowForward } from 'react-icons/md';
 import { BiMouse } from 'react-icons/bi';
 
-import ProfileImage from '../../assets/images/1.jpg';
+import ProfileImage from '../../assets/images/111.png';
 import './frontPage.css';
 
 const FrontPage = () => {
